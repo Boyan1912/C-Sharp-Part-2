@@ -1,0 +1,17 @@
+In the law, testimony is a form of evidence that is obtained from a witness who makes a solemn statement or declaration of fact. Testimony may be oral or written, and it is usually made by oath or affirmation under penalty of perjury. Unless a witness is testifying as an expert witness, testimony in the form of opinions or inferences is generally limited to those opinions or inferences that are rationally based on the perceptions of the witness and are helpful to a clear understanding of the witness' testimony.
+
+When a witness is asked a question, the opposing attorney can raise an objection, which is a legal move to disallow or prevent an improper question to others, preferably before the witness answers, and mentioning one of the standard reasons, including:
+
+    argumentative or inflammatory
+    asked and answered
+    best evidence rule
+    calls for speculation
+    calls for a conclusion
+    compound question or narrative
+    hearsay
+    irrelevant, immaterial, incompetent (this is actually not a proper objection because the term "incompetent" is meaningless and the words "irrelevant" and "immaterial" have the same meaning under the Federal Rules of Evidence). Historically, however, the phrase had some meaning. Irrelevant evidence referred to evidence that has no probative value (i.e., does not tend to prove any fact). Immaterial refers to evidence that is probative, but not as to any fact material to the case. Incompetent is a catch-all for inadmissible, but typically referred to evidence that is probative of a material fact but is otherwise inadmissible, for example because it is hearsay or privileged. See Black's Law Dictionary (7th Ed.).
+    lack of foundation
+    leading question
+    privilege
+    vague
+    ultimate issue testimony
